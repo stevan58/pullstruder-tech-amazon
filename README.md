@@ -8,6 +8,34 @@ This technology is designed to transform plastic waste (PET) into valuable resou
 - **Direct Plug & Play:** A specialized device that can be mounted directly onto 3D printers for a seamless "waste-to-object" process.
 - **Low-Cost Infrastructure:** Engineered to be affordable and accessible in low-resource settings.
 - **Resilience & Maintenance:** All wear-and-tear components are designed to be locally replaceable via 3D printing (Distributed Manufacturing).
+- ## Video Demonstrations / Demonstrações em Vídeo
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><b>Pullstruder in Action</b></p>
+      <a href="https://www.youtube.com/watch?v=_4qNnP942UI"><img src="https://img.youtube.com/vi/_4qNnP942UI/0.jpg" width="300"></a>
+    </td>
+    <td>
+      <p align="center"><b>Technical Demo 1</b></p>
+      <a href="https://www.youtube.com/watch?v=VaEXZWOExfM"><img src="https://img.youtube.com/vi/VaEXZWOExfM/0.jpg" width="300"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><b>Technical Demo 2</b></p>
+      <a href="https://www.youtube.com/watch?v=9aWBaFZRb0E"><img src="https://img.youtube.com/vi/9aWBaFZRb0E/0.jpg" width="300"></a>
+    </td>
+    <td>
+      <p align="center"><b>Process Overview</b></p>
+      <a href="https://www.youtube.com/watch?v=AeuzW2Kxk68"><img src="https://img.youtube.com/vi/AeuzW2Kxk68/0.jpg" width="300"></a>
+    </td>
+  </tr>
+</table>
+
+*Click on the images to watch the videos on YouTube / Clique nas imagens para assistir aos vídeos no YouTube.*
+
+---
 
 ## Intellectual Property & Licensing
 This project is protected under the **Creative Commons Attribution-NonCommercial (CC BY-NC)** license. 
