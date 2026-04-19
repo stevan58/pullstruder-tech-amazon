@@ -1,5 +1,3 @@
-# pullstruder-tech-amazon
-Low-cost technology to transform PET bottles into 3D printing filament, empowering Amazonian communities through circular economy and local manufacturing.
 # Pullstruder: Circular Economy Technology for the Amazon Rainforest
 
 ## Project Vision
@@ -15,8 +13,31 @@ This technology is designed to transform plastic waste (PET) into valuable resou
 This project is protected under the **Creative Commons Attribution-NonCommercial (CC BY-NC)** license. 
 The core technical files (STL/CAD) are kept secure to prevent unauthorized commercial exploitation. However, these files are shared with partner communities during the implementation phase to guarantee technical autonomy and full system repairability.
 
-## Impact Goal
-To empower local Amazonian communities by providing the tools to turn environmental pollution into functional objects, reducing plastic waste while creating a local circular micro-economy.
+## Institutional Partnership
+Developed in collaboration with [Forest-Metrics Laboratory](https://github.com/Bia-florestal/Forest-Metrics/tree/main).
 
 ## Contact
 For technical inquiries or institutional partnerships, please contact the developer via GitHub.
+
+---
+
+# Pullstruder: Tecnologia de Economia Circular para a Floresta Amazônica
+
+## Visão do Projeto
+Esta tecnologia foi desenvolvida para transformar resíduos plásticos (PET) em recursos valiosos para comunidades isoladas. A máquina Pullstruder converte garrafas plásticas em filamento de alta qualidade para impressão 3D e fabricação local, promovendo sustentabilidade e independência.
+
+## Principais Características Técnicas
+- **Ecossistema Modular:** Uma gama versátil de soluções, desde a produção de filamento padrão (bobinagem) até sistemas diretos avançados.
+- **Direct Plug & Play:** Um dispositivo especializado que pode ser montado diretamente em impressoras 3D para um processo contínuo de "resíduo para objeto".
+- **Infraestrutura de Baixo Custo:** Projetada para ser acessível em contextos de poucos recursos.
+- **Resiliência e Manutenção:** Todos os componentes sujeitos a desgaste foram projetados para serem substituídos localmente via impressão 3D (Fabricação Distribuída).
+
+## Propriedade Intelectual e Licenciamento
+Este projeto está protegido sob a licença **Creative Commons Attribution-NonCommercial (CC BY-NC)**.
+Os arquivos técnicos principais (STL/CAD) são mantidos em segurança para evitar exploração comercial não autorizada. No entanto, esses arquivos são compartilhados com as comunidades parceiras durante a fase de implementação para garantir autonomia técnica e reparabilidade total do sistema.
+
+## Parceiro Institucional
+Desenvolvido em colaboração com o [Laboratório Forest-Metrics](https://github.com/Bia-florestal/Forest-Metrics/tree/main).
+
+## Contato
+Para consultas técnicas ou parcerias institucionais, entre em contato com o desenvolvedor via GitHub.
